@@ -13,7 +13,7 @@ Welcome to Xperience! This guide will help you take your first steps in creating
 Before starting, ensure your system meets the minimum requirements:
 - Operating System: Windows 10/11, macOS 10.15+, or Linux
 - GPU: DirectX 11 or OpenGL 4.0 compatible graphics card
-- RAM: 8GB minimum (16GB recommended)
+- RAM: 4GB minimum (16GB recommended)
 
 ## First Launch
 
